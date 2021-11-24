@@ -7,9 +7,9 @@ Hi! I'm **Amiro** — an iOS Developer and UX Designer. I previously was a web d
 - Being genuine & honest
 
 ## Stack
-Frontend Web — HTML, CSS, Javascript (Vue), jQuery, WordPress
+Frontend Web — HTML, CSS, Javascript (Vue, React), jQuery, WordPress
 Backend — NodeJS, Express
-Mobile — Swift 5.1, Obj-c, Kotlin
+Mobile — Swift, SwiftUI, Kotlin
 
 ## Onward
 🤔 I’m looking for help with iOS Swift and possibly Kotlin
