@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Michael Amiro!
 
 ### 🚀 Senior iOS Engineer
-#### Nairobi, Kenya
 
 Welcome to my GitHub! I’m a dedicated and experienced iOS Developer with a proven track record of delivering user-centric applications that solve real-world problems. My career spans innovative projects across fintech, education, and e-commerce, where I’ve consistently pushed boundaries to drive impact and create value. Let’s collaborate and build the next big thing together!
 
